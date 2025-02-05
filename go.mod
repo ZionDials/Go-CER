@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/gin-contrib/requestid v0.0.6
 	github.com/gin-gonic/gin v1.9.1
-	github.com/go-co-op/gocron v1.35.0
+	github.com/go-co-op/gocron v1.37.0
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.18.2
 	go.uber.org/zap v1.26.0
